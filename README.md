@@ -1,4 +1,4 @@
-![Chatty Octopus Banner](https://spillthetea.chattyoctopus.com/images/octopusbanner.jpg)
+![Chatty Octopus Banner](https://spillthetea.chattyoctopus.com/images/octopus_banner.jpg)
 
 # Chatty Octopus Spills the Tea - Industry Happenings
 
